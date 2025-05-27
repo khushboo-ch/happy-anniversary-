@@ -11,7 +11,7 @@ const memories = [
     title: "Our First Outing....Tum jo ayae Zindagi mein baat ban gayi❤️🌍",
     description: "Where it all began...",
     date: "May 09, 2024",
-    image: "asset/images/first-date.jpg",
+    image: "images/first-date.jpg",
   },
   {
     id: 2,
